@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shubham...<br> and I'm a student currently pursuing BTECH  from Manipal Jaipur . <br><br>My domain : Full stack web dev | Data Science | NLP</h2>
+<h2 align="left">Hi 👋! My name is Shubham...</h2><br> <h3 align="left">and I'm a student currently pursuing BTECH  from Manipal Jaipur . <br><br>My domains : Full stack web dev | Data Science | NLP</h3>
 
 ###
 
