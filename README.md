@@ -1,10 +1,8 @@
-zz<h2 align="left">Hi 👋! My name is Shubham...</h2><br> <h3 align="left">I'm a student currently pursuing BTECH  from Manipal Jaipur . <br><br>My domains : Full stack web dev | Data Science | NLP</h3>
+zz<h2 align="left">Hi 👋! My name is Shubham...</h2><br> <h3 align="left">I'm a student currently pursuing BTECH  from Manipal Jaipur . <br><br>My domains : Full stack web dev | Data Science | NLP | AI & LLMs</h3>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SKukreti0107&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
